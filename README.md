@@ -26,6 +26,8 @@ A `.editorconfig` configuration file and `.eslint` files are provided, you can a
 ```
 npm run lint
 ```
+## Question 1
+for question with my solution we have aa time complexity of O(1) linear time and a space complexity of O(1)
 
 ## Question 2
   [System design answer](https://solar-armadillo-637.notion.site/design-system-for-high-data-Input-25a4dfdfd4124889921b5065c9734296)
